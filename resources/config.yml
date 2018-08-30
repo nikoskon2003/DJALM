@@ -1,0 +1,6 @@
+---
+'#If false, join message will not be displayed!': 'Default: false'
+enable-join-message: false
+'#If false, leave message will not be displayed!': 'Default: false'
+enable-leave-message: false
+...
